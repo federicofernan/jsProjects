@@ -1,8 +1,7 @@
 # jsProjects
 Projects done in Javascript
 
-####
-Pig-Game
+1- Pig-Game
 This Project is an implementation of the pig game with two dices.
 
 
