@@ -5,6 +5,6 @@ Projects done in Javascript
 
 
 
-2- Budgety: This Project is an App to track a budget with incomes and expenses.\n
+2- Budgety: This Project is an App to track a budget with incomes and expenses.
 
 
