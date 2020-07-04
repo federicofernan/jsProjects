@@ -1,0 +1,14 @@
+{
+  "name": "laptop-shop",
+  "version": "1.0.0",
+  "description": "Laptop Shop developed with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Federico G Fernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
