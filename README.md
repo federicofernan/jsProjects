@@ -12,3 +12,7 @@ Projects done in Javascript
 3- Forkify: This Project is an app to search recipes. Uses webpack, babel, and ES6.
 
 
+
+4- Laptop Shop: Small project using NODE.js to display a shop of laptops.
+
+
