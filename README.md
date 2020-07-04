@@ -8,3 +8,7 @@ Projects done in Javascript
 2- Budgety: This Project is an App to track a budget with incomes and expenses.
 
 
+
+3- Forkify: This Project is an app to search recipes. Uses webpack, babel, and ES6.
+
+
